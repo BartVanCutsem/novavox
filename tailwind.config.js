@@ -20,7 +20,8 @@ module.exports = {
             },
 
             backgroundImage:  {
-               "studio-image" : "url(images/studio_view_crop.jpg)"
+               "air-image" : "url(images/background.png)",
+               "dean-foto" : "url(images/Dean.jpg)"
             },
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
